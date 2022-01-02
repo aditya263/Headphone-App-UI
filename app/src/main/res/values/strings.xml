@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Headphones App</string>
+    <string name="desc_headphone">Audio industry\'s favourite HE400 series has a new addition - the HiFiMAN HE400se. The HE400 series has been winning hearts of critics and music lovers around the world. With the HE400se, HiFiMAN gives one more reason for you to fall in love with the HE400 series. The brand-new HE400se is a dynamic planar headphone with an advanced conductive layer that covers the diaphragm reducing distortion to incredibly low levels. \n\n
+                                    The specially designed Sleath magnet has a unique role to play in the HE400se. Unlike traditional magnets, a stealth magnet allows soundwaves to pass without any kind of interference. The overall magnet design of the HE400se is acoustically transparent to keep the wave diffraction turbulence in check. This decrease in distortion promotes audio accuracy and enhances the audio range which ultimately leads to pure sonic bliss.</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="description">Description</string>
+    <string name="_199_99">$ 199.99</string>
+    <string name="wireless">Wireless</string>
+    <string name="beats_ep">Beats Ep</string>
+</resources>
